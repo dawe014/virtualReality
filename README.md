@@ -52,4 +52,4 @@ This project is a **Virtual Reality (VR) Landing Page** designed to showcase a V
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries or feedback, reach out via [dawittamiru.com]
+For inquiries or feedback, reach out via [dawittamiru014@gmail.com]
